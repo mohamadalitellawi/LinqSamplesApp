@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queries", "Queries\Queries.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cars", "Cars\Cars.csproj", "{48396140-021A-4B7C-B7BD-FDEB382A69F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarsXml", "CarsXml\CarsXml.csproj", "{817C3043-1A92-4953-934B-725C30E26685}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarsXml", "CarsXml\CarsXml.csproj", "{817C3043-1A92-4953-934B-725C30E26685}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParseCsvRegex", "ParseCsvRegex\ParseCsvRegex.csproj", "{C1710BF8-C287-42E0-8751-12CA1D3871F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{817C3043-1A92-4953-934B-725C30E26685}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{817C3043-1A92-4953-934B-725C30E26685}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{817C3043-1A92-4953-934B-725C30E26685}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1710BF8-C287-42E0-8751-12CA1D3871F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1710BF8-C287-42E0-8751-12CA1D3871F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1710BF8-C287-42E0-8751-12CA1D3871F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1710BF8-C287-42E0-8751-12CA1D3871F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
